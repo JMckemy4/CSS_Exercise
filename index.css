@@ -1,0 +1,71 @@
+/* Exercise 2: Add CSS rulesets below */
+
+/* Select all elements with the class name 'nav-link' */
+nav {
+    color: orange; /* Change the text color to orange */
+    text-decoration: none; /* Remove the underline for links */
+  }
+/* Exercise 3: Add CSS rulesets below */
+
+/* Select the 'main' element */
+main {
+    max-width: 600px; /* Change the max width to 600px */
+    margin-top: 24px; /* Add margin top of 44px */
+    margin-bottom: 24px; /* Add margin bottom of 44px */
+    margin-left: auto; /* Center the main element horizontally */
+    margin-right: auto; /* Center the main element horizontally */
+  }
+/* Exercise 4: Add CSS rulesets below */
+
+section {
+    margin-top: 24px; /* Add margin top of 44px */
+    margin-bottom: 24px; /* Add margin bottom 44px */
+    padding-left: 16px; /* Changes left to 16px */
+    padding-right: 16px; /* Changes right to 16px */
+    padding-top: 16px; /* Changes top to 16px */
+    padding-bottom: 16px; /* Changes top to 16px */
+    border: 3px solid blue; 
+    border-style: dotted;
+}
+/* Exercise 5: Add CSS rulesets below */
+
+/* Select the element with the 'title' id */
+#title {
+    font-size: 40px; /* Change the font size to 40px */
+    font-weight: 800; /* Change the font weight to 800 (bold) */
+  }
+/* Exercise 6: Add CSS rulesets below */
+
+/* Select elements with the 'd-inline' class */
+.d-inline {
+    display: inline; /* Change the display to 'inline' */
+  }
+/* Exercise 7: Add CSS rulesets below */
+
+/* Select <ul> elements that are children of <nav> elements */
+nav > ul {
+    list-style: none; /* Remove bullet points */
+  }
+/* Exercise 8: Add CSS rulesets below */
+
+/* Select the <body> element */
+body {
+    background-color: #222222; /* Change background color to #222222 */
+    color: #EEEEEE; /* Change text color to #EEEEEE */
+  }
+/* Exercise 9: Add CSS rulesets below */
+
+/* Select the element with the 'avatar' id */
+#avatar {
+    width: 100px; /* Change width to 100px */
+    margin-left: auto; /* Center horizontally by setting left margin to auto */
+    margin-right: auto; /* Center horizontally by setting right margin to auto */
+    margin-top: 32px; /* Set top margin to 32px */
+    margin-bottom: 32px; /* Set bottom margin to 32px */
+  }
+
+  
+  
+  
+  
+  
